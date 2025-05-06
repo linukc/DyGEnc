@@ -102,3 +102,9 @@ CUSTOM_ROOT=<your path> python3 predict.py --dataset_name=custom --exp_name=<out
 ```
 
 You can find results in corresponding json file in `eval` folder.
+
+## Citation
+
+This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible.
+
+
