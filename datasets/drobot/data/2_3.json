@@ -1,0 +1,22 @@
+[
+    {
+      "question": "Did they pour water from the kettle into the mug before picking up the white toy?",
+      "answer": "yes"
+    },
+    {
+      "question": "What did they do after pouring water from the kettle into the mug?",
+      "answer": "picked up a white toy"
+    },
+    {
+      "question": "Were they holding green lamp before picking up the red cube?",
+      "answer": "no"
+    },
+    {
+      "question": "Did they pour water before they picked up any other object?",
+      "answer": "yes"
+    },
+    {
+      "question": "What did they do before picking up the red cube?",
+      "answer": "holding the white toy"
+    }
+  ]

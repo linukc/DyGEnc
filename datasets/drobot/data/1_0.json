@@ -1,0 +1,22 @@
+[
+    {
+      "question": "Did they take the water bottle before or after they took the blue cup?",
+      "answer": "before"
+    },
+    {
+      "question": "Did they pour water into the cup before or after they placed it on the table?",
+      "answer": "before"
+    },
+    {
+      "question": "What did they do after pouring water into the cup?",
+      "answer": "placed the cup on the table"
+    },
+    {
+      "question": "Were they turning the cardboard box with a green stripe before or after they started working at the computer?",
+      "answer": "before"
+    },
+    {
+      "question": "What did they do before starting to work at the computer?",
+      "answer": "placed the cardboard box on the table"
+    }
+  ]

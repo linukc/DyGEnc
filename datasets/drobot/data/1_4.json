@@ -1,0 +1,22 @@
+[
+    {
+      "question": "Did they take the kettle from the table before taking the blue mug?",
+      "answer": "yes"
+    },
+    {
+      "question": "What did they do after pouring water into the blue mug?",
+      "answer": "placed them on the table"
+    },
+    {
+      "question": "Did they pick up the container with a red lid after returning the blue mug?",
+      "answer": "yes"
+    },
+    {
+      "question": "Was they holding container with red lid or wiping it with a yellow towel?",
+      "answer": "holding container with red lid"
+    },
+    {
+      "question": "Did they throw water bottle after pouring water?",
+      "answer": "no"
+    }
+  ]

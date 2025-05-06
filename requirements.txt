@@ -1,0 +1,15 @@
+loguru
+wandb
+pandas
+tabulate
+hydra-core
+dotenv
+openai
+pydantic
+opencv-python
+einops
+pillow
+pcst_fast
+evaluate
+rouge_score
+bert_score

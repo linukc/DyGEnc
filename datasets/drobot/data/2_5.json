@@ -1,0 +1,22 @@
+[
+    {
+      "question": "What did they do after putting on the jacket?",
+      "answer": "put on gloves"
+    },
+    {
+      "question": "Did they take the briefcase from the table before or after they put on gloves?",
+      "answer": "after"
+    },
+    {
+      "question": "Were they wearing gloves before or after putting on the jacket?",
+      "answer": "after"
+    },
+    {
+      "question": "Were they wearing the jacket first?",
+      "answer": "yes"
+    },
+    {
+      "question": "Did they take the briefcase from the table first?",
+      "answer": "no"
+    }
+  ]
