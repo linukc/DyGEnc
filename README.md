@@ -107,4 +107,14 @@ You can find results in corresponding json file in `eval` folder.
 
 This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible.
 
-
+```
+@misc{linok2025dygencencodingsequencetextual,
+      title={DyGEnc: Encoding a Sequence of Textual Scene Graphs to Reason and Answer Questions in Dynamic Scenes}, 
+      author={Sergey Linok and Vadim Semenov and Anastasia Trunova and Oleg Bulichev and Dmitry Yudin},
+      year={2025},
+      eprint={2505.03581},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.03581}, 
+}
+```
