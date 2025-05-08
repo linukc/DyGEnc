@@ -1,5 +1,7 @@
 # DyGEnc
 
+[ARXIV](https://arxiv.org/abs/2505.03581)
+
 A novel method for encoding a sequence of textual scene graphs for QA.
 
 ## Installation
