@@ -25,7 +25,7 @@ EOS = '<|end_of_text|>'
 IGNORE_INDEX = -100
 
 
-class DGMap3d(torch.nn.Module):
+class DyGEnc(torch.nn.Module):
     def __init__(self, cfg):
         super().__init__()
         self.cfg = cfg
