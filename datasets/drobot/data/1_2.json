@@ -1,0 +1,22 @@
+[
+    {
+      "question": "Did they read the red book before opening the laptop?",
+      "answer": "yes"
+    },
+    {
+      "question": "What did they do immediately after reading the red book?",
+      "answer": "put the red book back on the table"
+    },
+    {
+      "question": "Were they working on the laptop?",
+      "answer": "yes"
+    },
+    {
+      "question": "What did they do before picking up the phone?",
+      "answer": "work on laptop"
+    },
+    {
+      "question": "What did they do after picking up the phone?",
+      "answer": "held the phone"
+    }
+  ]
