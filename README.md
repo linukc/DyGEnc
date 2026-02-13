@@ -1,3 +1,5 @@
+This repository contains the official implementation of DyGEnc (Dynamic Graph Encoding), a method for structured spatio-temporal reasoning in dynamic environments using sequences of textual scene graphs and large language models (LLMs).
+
 ## Installation
 
 ```bash
